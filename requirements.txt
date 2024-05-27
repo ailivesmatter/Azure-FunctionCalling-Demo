@@ -1,0 +1,8 @@
+ipywidgets
+matplotlib
+numpy
+pandas
+tqdm
+python-dotenv
+openai
+tiktoken
